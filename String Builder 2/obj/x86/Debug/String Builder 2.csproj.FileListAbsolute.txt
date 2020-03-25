@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\bin\Debug\String Builder 2.exe
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\bin\Debug\String Builder 2.pdb
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\obj\x86\Debug\String_Builder_2.Form1.resources
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\obj\x86\Debug\String_Builder_2.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\obj\x86\Debug\String Builder 2.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\obj\x86\Debug\String Builder 2.exe
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder 2\String Builder 2\obj\x86\Debug\String Builder 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\obj\x86\Debug\String Builder 2.exe
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\obj\x86\Debug\String Builder 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\bin\Debug\String Builder 2.exe
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\bin\Debug\String Builder 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\obj\x86\Debug\String_Builder_2.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\obj\x86\Debug\String_Builder_2.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\10 String Builder Sınıfı 2\String Builder 2\obj\x86\Debug\String Builder 2.csproj.GenerateResource.Cache
